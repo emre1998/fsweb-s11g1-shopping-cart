@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 import { useContext } from "react";
-import ProductContext from "../context/ProductContext";
+import { ProductContext } from "../contexts/ProductContext";
 
 // Components
 import Product from "./Product";
